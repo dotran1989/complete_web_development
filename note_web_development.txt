@@ -50,3 +50,7 @@ https://www.vox.com/a/internet-maps
 
 First website
 http://info.cern.ch/hypertext/WWW/TheProject.html
+
+====================================
+Lecture 26: HTML Tags
+http://www.99lime.com/_bak/topics/you-only-need-10-tags/
