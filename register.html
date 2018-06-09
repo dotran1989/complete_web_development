@@ -4,20 +4,20 @@
     </head>
     <body>
         <form>
-            First Name: <input type="text"><br>
-            Last Name: <input type="text"><br>
-            Email: <input type="email" required><br>
-            Password: <input type="password" minlength="5"><br>
-            Birthday: <input type="date"><br>
+            First Name: <input type="text" name="firstname"><br>
+            Last Name: <input type="text" name="lastname"><br>
+            Email: <input type="email" name="email" required><br>
+            Password: <input type="password" name="password" minlength="5"><br>
+            Birthday: <input type="date" name="birthday"><br>
             Gender:<br>
-            <input type="radio" name="gender">Male<br>
-            <input type="radio" name="gender">Female<br>
-            <input type="radio" name="gender">Other<br>
+            <input type="radio" name="gender" value="male">Male<br>
+            <input type="radio" name="gender" value="female">Female<br>
+            <input type="radio" name="gender" value="other">Other<br>
             Pets:<br>
-            <input type="checkbox">Cat<br>
-            <input type="checkbox">Dog<br>
+            <input type="checkbox" name="cat">Cat<br>
+            <input type="checkbox" name="dog">Dog<br>
             Cars:<br>
-            <select multiple>
+            <select name="cars">
                 <option value="volvo">Volvo</option>
                 <option value="audi">Audi</option>
             </select><br>
@@ -26,3 +26,14 @@
         </form>
     </body>
 </html>
+
+<!-- 
+?
+firstname=cuong
+&lastname=duong
+&email=cuongduongngocquoc%40gmail.com
+&password=12345
+&birthday=2018-06-09
+&gender=on
+&cat=on 
+-->
