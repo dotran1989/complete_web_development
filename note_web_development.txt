@@ -54,3 +54,8 @@ http://info.cern.ch/hypertext/WWW/TheProject.html
 ====================================
 Lecture 26: HTML Tags
 http://www.99lime.com/_bak/topics/you-only-need-10-tags/
+
+====================================
+Lecture 35: HTML Tags 3
+The span tag is like the div tag. It has no meaning at all and is mostly used for styling by using an id or class. 
+The difference between the two is that div is a blockelement, It's on a seperate line. span however is an inline element, meaning that it can be on a line with other elements
