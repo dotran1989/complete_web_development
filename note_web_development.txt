@@ -59,3 +59,23 @@ http://www.99lime.com/_bak/topics/you-only-need-10-tags/
 Lecture 35: HTML Tags 3
 The span tag is like the div tag. It has no meaning at all and is mostly used for styling by using an id or class. 
 The difference between the two is that div is a blockelement, It's on a seperate line. span however is an inline element, meaning that it can be on a line with other elements
+
+WaitButWhy website
+https://waitbutwhy.com/2018/04/picking-career.html
+
+====================================
+Lecture 42: Your first CSS
+
+_ Priority
+Following are the rules,where number one has the highest priority:
+
+Inline style (inside an HTML element)
+External and internal style sheets (in the head section)
+Browser default
+REFERENCE
+
+w3schools
+
+LINK
+
+https://www.w3schools.com/css/css_howto.asp
